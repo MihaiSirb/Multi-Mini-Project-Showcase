@@ -5,5 +5,6 @@ The Multi-Mini Project Showcase is a GitHub repository containing several mini p
 
 1. **Weight Converter:** A simple web application that allows users to convert weights between different units.
 2. **Alarm Clock:** An interactive alarm clock application that enables users to set alarms and receive notifications at specified times, demonstrating proficiency in working with date and time functionalities in JavaScript.
+3. **Password Validator:** A tool for validating the strength of passwords entered by users, offering real-time feedback on factors such as length, complexity, and uniqueness, showcasing skills in form validation and user feedback implementation.
 
 These mini projects serve as practical exercises for practicing HTML, CSS, and JavaScript skills, as well as exploring frontend frameworks and libraries where applicable. By working on these projects, I aim to enhance my proficiency in frontend development and learn new techniques to create intuitive and user-friendly web experiences.
