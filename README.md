@@ -14,5 +14,6 @@ The Multi-Mini Project Showcase is a GitHub repository containing several mini p
 9. **Cubes Hover Effect**: An interactive hover effect applied to cubes, demonstrating creative and visually appealing hover effects using CSS.
 10. **Circular Progress Bar**: A circular progress bar implementation, displaying animated progress indicators for tasks or processes, enhancing user experience and providing visual feedback on completion status.
 11. **Corner Menu**: A corner menu implementation providing users with quick access to navigation options or actions, utilizing CSS and JavaScript to create an interactive and visually appealing menu interface positioned at the corner of the screen, enhancing user convenience and accessibility.
+12. **Dark & Light Theme Calculator**: A calculator application featuring dark and light themes, allowing users to switch between themes for personalized viewing preferences.
 
 These mini projects served me as practical exercises for practicing HTML, CSS, and JavaScript skills, as well as exploring frontend frameworks and libraries where applicable. By working on these projects, I aimed to enhance my proficiency in frontend development and learn new techniques to create intuitive and user-friendly web experiences.
