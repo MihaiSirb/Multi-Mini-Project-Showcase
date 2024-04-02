@@ -12,5 +12,6 @@ The Multi-Mini Project Showcase is a GitHub repository containing several mini p
 7. **Animated Skills Bar**: A dynamic skills bar displaying animated progress for various skills or competencies, providing users with an engaging visualization of proficiency levels.
 8. **Butterfly Hexagon Share Button**: A unique share button design inspired by butterfly wings and hexagonal patterns, providing users with an elegant and visually striking way to share content on social media platforms.
 9. **Cubes Hover Effect**: An interactive hover effect applied to cubes, demonstrating creative and visually appealing hover effects using CSS.
+10. **Circular Progress Bar**: A circular progress bar implementation, displaying animated progress indicators for tasks or processes, enhancing user experience and providing visual feedback on completion status.
 
 These mini projects served me as practical exercises for practicing HTML, CSS, and JavaScript skills, as well as exploring frontend frameworks and libraries where applicable. By working on these projects, I aimed to enhance my proficiency in frontend development and learn new techniques to create intuitive and user-friendly web experiences.
